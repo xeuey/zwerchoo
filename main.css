@@ -1,0 +1,58 @@
+
+    span {
+    color: #000000;
+        font-family: "American Typewriter", sans-serif;
+    display: block;
+    margin-top: 30px;
+    font-size: 50px;
+    transition: all .6s ease;
+    margin-left: 700px;
+
+    }
+
+    ul {
+    margin-top: -50px;
+    margin-left:100px;
+    }
+    h5 {
+    margin-left: 100px;
+    }
+
+    small {
+
+    margin-top: 200px;
+    }
+
+    .text {
+  animation: appear 2s ease-in-out;
+}
+
+@keyframes appear {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+small {
+    margin-left: -60px;
+    margin-top: 100px;
+}
+
+b {
+    margin-left: -70px;
+    margin-top: 100px;
+}
+
+p {
+    font-family: "American Typewriter", sans-serif;
+    font-size: 18.5px;
+    line-height: 1.5;
+
+}
+a {
+    font-family: "American Typewriter", sans-serif;
+}
+
